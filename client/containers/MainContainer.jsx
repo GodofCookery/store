@@ -9,7 +9,7 @@ class MainContainer extends Component {
 
   render() {
     return (
-      <div>
+      <div> 
         <LeftSidebarMenuComponent />
         H3llo from react MainContainer
       </div>
