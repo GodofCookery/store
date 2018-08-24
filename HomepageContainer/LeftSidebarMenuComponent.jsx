@@ -1,5 +1,6 @@
 // Dumb component that that just links to Mens and Womens Clothes link.
-// Click on the link which redirect to either page. action to direct to new page.
+// Click on the link which redirect to either page. action to direct to new page
+// First component.
 
 import React from 'react';
 
